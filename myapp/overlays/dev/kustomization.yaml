@@ -1,8 +1,8 @@
 resources:
   - ../../base
   - namespace.yaml
-patchesStrategicMerge:
-  - patch.yaml
+# patchesStrategicMerge:
+#   - patch.yaml
 
 
 
